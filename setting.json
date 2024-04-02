@@ -1,18 +1,18 @@
 {
-    "title": "Auroraの主页",
+    "title": "Jshanの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Aurora,个人主页",
-    "author": "Aurora",
+    "keywords": "Jshan,个人主页",
+    "author": "Jshan",
     "logo_img": "./img/icon/avatar.jpg",
-    "logo_text_1": "wuhobin",
+    "logo_text_1": "SJShan",
     "logo_text_2": "top",
-    "github": "wuhobin",
-    "qq": "1289066006",
-    "email": "1289066006@qq.com",
-    "bilibili": "495003013",
+    "github": "SJShan",
+    "qq": "2644795130",
+    "email": "2644795130@qq.com",
+    "bilibili": "27948672",
     "facebook": "bottom_user",
     "link_1": [
-        "http://blog.wuhobin.top/",
+        "https://sjshan.gitee.io/",
         "fa-solid fa-blog",
         "博客"
     ],
@@ -22,7 +22,7 @@
         "统计"
     ],
     "link_3": [
-        "http://www.wuhobin.top/",
+        "https://sjshan.gitee.io/",
         "fa-solid fa-compass",
         "起始页"
     ],
@@ -41,6 +41,24 @@
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "Aurora",
-    "beian": "鄂ICP备20006685号"
+    "wallpaper_api": [
+        [
+            "每日一图",
+            "https://source.unsplash.com/random" 
+        ]
+    ],
+    "wallpaper_api": [
+        [
+            "随机风景", 
+            "https://api.asxe.vip/scenery.php" 
+        ]
+    ],
+    "wallpaper_api": [
+        [
+            "随机动漫", 
+            "https://api.suyanw.cn/api/comic/api.php" 
+        ]
+    ],
+    "Copyright_text": "Jshan",
+    "beian": "233"
 }
