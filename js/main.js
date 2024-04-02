@@ -302,7 +302,7 @@ $('#switchmore').on('click', function () {
     } else {
         $('#container').attr('class', 'container');
         $("#change").html("Hello&nbsp;World&nbsp;!");
-        $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+        $("#change1").html("假如再也不能见到你,祝你早安,午安,晚安");
     }
 });
 
@@ -351,7 +351,7 @@ window.addEventListener('load', function () {
             //移动端隐藏更多页面
             $('#container').attr('class', 'container');
             $("#change").html("Hello&nbsp;World&nbsp;!");
-            $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+            $("#change1").html("假如再也不能见到你,祝你早安,午安,晚安");
 
             //移动端隐藏弹窗页面
             $('#box').css("display", "none");
@@ -403,7 +403,7 @@ color: #425AEF;
 let styleContent = `
 color: rgb(30,152,255);
 `
-let title1 = 'Auroraの主页'
+let title1 = 'Jshanの主页'
 let title2 = `
 
 ██████╗ ██╗   ██╗██╗    ██╗██╗███╗   ██╗██████╗ 
@@ -415,7 +415,7 @@ let title2 = `
 `
 let content = `
 博客:  https://bolo.wuhobin.top
-Github:  https://github.com/wuhobin
+Github:  https://github.com/SJShan
 `
 console.log(`%c${title1} %c${title2}
 %c${content}`, styleTitle1, styleTitle2, styleContent)
