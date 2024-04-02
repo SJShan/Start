@@ -414,7 +414,7 @@ let title2 = `
 ╚═════╝    ╚═╝    ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝               
 `
 let content = `
-博客:  https://bolo.wuhobin.top
+博客:  https://sjshan.gitee.io/
 Github:  https://github.com/SJShan
 `
 console.log(`%c${title1} %c${title2}
